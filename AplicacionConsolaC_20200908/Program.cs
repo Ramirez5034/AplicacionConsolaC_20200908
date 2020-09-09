@@ -35,7 +35,7 @@ namespace AplicacionConsolaC_20200908
       s = n1 + n2;
       //Mostrar el resultado
 
-      Console.Write("A suma es " + s);
+      Console.Write("A suma de " + n1 + " + " + n2 +" = " + s);
 
       Console.ReadKey();
     }

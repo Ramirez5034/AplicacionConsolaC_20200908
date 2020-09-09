@@ -1,0 +1,7 @@
+C:\Users\r3\source\repos\AplicacionConsolaC_20200908\AplicacionConsolaC_20200908\bin\Debug\AplicacionConsolaC_20200908.exe.config
+C:\Users\r3\source\repos\AplicacionConsolaC_20200908\AplicacionConsolaC_20200908\bin\Debug\AplicacionConsolaC_20200908.exe
+C:\Users\r3\source\repos\AplicacionConsolaC_20200908\AplicacionConsolaC_20200908\bin\Debug\AplicacionConsolaC_20200908.pdb
+C:\Users\r3\source\repos\AplicacionConsolaC_20200908\AplicacionConsolaC_20200908\obj\Debug\AplicacionConsolaC_20200908.csprojAssemblyReference.cache
+C:\Users\r3\source\repos\AplicacionConsolaC_20200908\AplicacionConsolaC_20200908\obj\Debug\AplicacionConsolaC_20200908.csproj.CoreCompileInputs.cache
+C:\Users\r3\source\repos\AplicacionConsolaC_20200908\AplicacionConsolaC_20200908\obj\Debug\AplicacionConsolaC_20200908.exe
+C:\Users\r3\source\repos\AplicacionConsolaC_20200908\AplicacionConsolaC_20200908\obj\Debug\AplicacionConsolaC_20200908.pdb
